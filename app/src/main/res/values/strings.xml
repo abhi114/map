@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">map3</string>
+    <string name="google_maps_key">AIzaSyAoSAm0U-A4yfs_fJnwmJDJ5siNo9162Hc</string>
+    <string name="no_geocoder_available">No geocoder available</string>
+    <string name="no_location_detected">No Location Detected</string>
+    <string name="permission_rationale">Permission rationale</string>
+    <string name="no_location_data_provided">No Location Data Provided</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Latitude and Longitude</string>
+    <string name="address_found">Address Found</string>
+
+</resources>
